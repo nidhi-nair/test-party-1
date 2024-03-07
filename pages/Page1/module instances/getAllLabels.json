@@ -1,0 +1,19 @@
+{
+  "packageUUID": "65e9a198cae8390abdf498eb",
+  "moduleUUID": "65e9a198cae8390abdf498ed",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "version": "0.0.2",
+    "name": "getAllLabels",
+    "contextType": "PAGE",
+    "pageId": "Page1",
+    "inputs": {},
+    "jsonPathKeys": [],
+    "isValid": true,
+    "invalids": [],
+    "userPermissions": []
+  },
+  "id": "Page1_getAllLabels",
+  "deleted": false,
+  "gitSyncId": "65e9a16bcae8390abdf49830_65e9a199cae8390abdf498f8"
+}
