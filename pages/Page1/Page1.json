@@ -37,14 +37,6 @@
                 "appsmith.store.DBID"
               ],
               "timeoutInMillisecond": 10000
-            },
-            {
-              "id": "Page1__$getAllLabels$_getAllLabels",
-              "name": "_$getAllLabels$_getAllLabels",
-              "confirmBeforeExecute": false,
-              "pluginType": "API",
-              "jsonPathKeys": [],
-              "timeoutInMillisecond": 10000
             }
           ]
         ],
